@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a current CS student and aspiring pilot working on their instrument rating
+If you have any questions you can reach out to me at: DontReachOut.Please@gmail.com
 <!--
 **Maxwell-61/Maxwell-61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
